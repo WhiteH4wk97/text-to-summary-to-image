@@ -1,0 +1,9 @@
+2023-04-28 06:54:55,051 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2023-04-28 06:57:08,840 - ERROR - load_local_actions: Cannot hot load local actions from jac/text-to-image.py: inconsistent use of tabs and spaces in indentation (text-to-image.py, line 34)
+2023-04-28 06:58:05,319 - ERROR - load_local_actions: Cannot hot load local actions from jac/text-to-image.py: inconsistent use of tabs and spaces in indentation (text-to-image.py, line 34)
+2023-04-28 06:59:50,813 - ERROR - load_local_actions: Cannot hot load local actions from jac/text-to-image.py: inconsistent use of tabs and spaces in indentation (text-to-image.py, line 34)
+2023-04-28 07:03:16,314 - ERROR - load_local_actions: Cannot hot load local actions from jac/text-to-image.py: inconsistent use of tabs and spaces in indentation (text-to-image.py, line 23)
+2023-04-28 07:06:37,870 - ERROR - call_action: Error calling action text_to_image.generate: Action text_to_image.generate not found
+2023-04-28 07:07:58,299 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
